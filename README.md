@@ -94,8 +94,6 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - Secretary – Blue Sky Forum.
 - Actively participated in organizing and coordinating college events.
 - Experienced in stage compering and event coordination.
-  ===
-  
 ---
 ## 📫 Connect With Me
 
