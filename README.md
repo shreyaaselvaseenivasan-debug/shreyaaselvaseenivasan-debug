@@ -10,3 +10,25 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - 🚀 Enjoy building practical software applications.
 - 🧠 Interested in problem-solving and learning new technologies.
 - 🌱 Continuously improving my technical and development skills.
+  
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- C
+- C++
+
+### Web Technologies
+- HTML
+- CSS
+
+### Database
+- SQL
+- MySQL
+
+### Core Skills
+- Problem Solving
+- Team Collaboration
+- Accountability
+
