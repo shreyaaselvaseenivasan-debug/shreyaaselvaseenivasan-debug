@@ -70,6 +70,8 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 ### 9. Library Management System
 - Developed a web-based Library Management System using Python and FastAPI.
 - Implemented book management operations using CRUD functionality.
+- Containerized the application using Docker.
+- Deployed the application using Kubernetes.
 
 ### 7. Smart Parking System
 - Developed a hardware-based smart parking solution using ESP32.
@@ -78,5 +80,3 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - Explored automated parking management using embedded systems and IoT.
 
 
-- Containerized the application using Docker.
-- Deployed the application using Kubernetes.
