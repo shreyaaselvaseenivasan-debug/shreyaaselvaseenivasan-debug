@@ -79,4 +79,21 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - Used a servo motor to automate the parking gate mechanism.
 - Explored automated parking management using embedded systems and IoT.
 
+---
+
+## 🏆 Certifications & Achievements
+
+- AWS Certified AI Practitioner
+- NPTEL Certification
+- IEEE Course Certifications
+- Mepco Management Scholarship – Academic Year 2023–2024
+- Participated in technical paper presentations and academic activities.
+
+## 🌟 Leadership & Activities
+
+- Secretary – Blue Sky Forum.
+- Actively participated in organizing and coordinating college events.
+- Experienced in stage compering and event coordination.
+
+
 
