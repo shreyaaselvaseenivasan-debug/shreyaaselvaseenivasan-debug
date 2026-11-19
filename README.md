@@ -99,17 +99,9 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 ---
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](
----
-
-## 📫 Connect With Me
-
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shreyaaselvaseenivasanit/)
 - **GitHub:** [My GitHub Profile](https://github.com/shreyaaselvaseenivasan-debug)
-- **Email:** YOUR_PROFESSIONAL_EMAIL
-
-- **GitHub:** [My GitHub Profile](https://github.com/shreyaaselvaseenivasan-debug)
-- **Email:** YOUR_PROFESSIONAL_EMAIL
+- **Email:** shreyaaselvaseenivasan0905@gmail.com
 
 
 
