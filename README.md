@@ -53,15 +53,13 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - Focused on managing printing press operations and database records.
   
 ### 5.Traffic Management System
-simulated a 4-way traffic intersection using Multithreading and
-synchronization concepts
+- simulated a 4-way traffic intersection using Multithreading and synchronization concepts
 
 ### 6.Pac-Man and Ghost Game
-Developed a mini arcade-style Pac-Man game implementing object-oriented
-programming and collision detection
+- Developed a mini arcade-style Pac-Man game implementing object-oriented programming and collision detection
 
 ### 7. Flow Graph using Data Structures
-Created a visual representation and traversal system for flow graphs
+- Created a visual representation and traversal system for flow graphs
 
 ### 8. TMACO with Adaptive-Angle: Complexity-Aware Class Alliance Constraints for Imbalanced Learning
 - Implemented the original TMACO algorithm using Java.
@@ -72,5 +70,13 @@ Created a visual representation and traversal system for flow graphs
 ### 9. Library Management System
 - Developed a web-based Library Management System using Python and FastAPI.
 - Implemented book management operations using CRUD functionality.
+
+### 7. Smart Parking System
+- Developed a hardware-based smart parking solution using ESP32.
+- Integrated RFID technology for vehicle identification and access control.
+- Used a servo motor to automate the parking gate mechanism.
+- Explored automated parking management using embedded systems and IoT.
+
+
 - Containerized the application using Docker.
 - Deployed the application using Kubernetes.
