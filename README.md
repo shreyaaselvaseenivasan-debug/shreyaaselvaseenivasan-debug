@@ -94,6 +94,23 @@ I'm an Information Technology student at Mepco Schlenk Engineering College, pass
 - Secretary – Blue Sky Forum.
 - Actively participated in organizing and coordinating college events.
 - Experienced in stage compering and event coordination.
+  ===
+  
+---
+## 📫 Connect With Me
+
+- **LinkedIn:** [My LinkedIn Profile](
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shreyaaselvaseenivasanit/)
+- **GitHub:** [My GitHub Profile](https://github.com/shreyaaselvaseenivasan-debug)
+- **Email:** YOUR_PROFESSIONAL_EMAIL
+
+- **GitHub:** [My GitHub Profile](https://github.com/shreyaaselvaseenivasan-debug)
+- **Email:** YOUR_PROFESSIONAL_EMAIL
+
 
 
 
